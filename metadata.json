@@ -1,0 +1,7 @@
+{
+  "name": "French Magazine 24h Schedule",
+  "description": "法式杂志极简风格的24小时手机日程表与SillyTavern联动拓展，支持人设与世界书上下文过滤、自定义API模型拉取与连贯日程生成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
